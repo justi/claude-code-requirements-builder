@@ -7,7 +7,7 @@ Takes: $ARGUMENTS (feature description)
 ## Instructions:
 
 ### Step 1: Start Requirements Process
-1. Run requirements-start with the provided feature description from $ARGUMENTS
+1. Run /requirements-start with the provided feature description from $ARGUMENTS
 2. This will create the requirement folder and initial setup
 
 ### Step 2: Auto-Answer Discovery Phase
